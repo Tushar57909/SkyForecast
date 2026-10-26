@@ -1,0 +1,22 @@
+[
+  {
+    "filename": "ecmwf_previous_runs.json",
+    "source": "ecmwf",
+    "path": "../data/raw\\ecmwf\\ecmwf_previous_runs.json"
+  },
+  {
+    "filename": "gfs_previous_runs.json",
+    "source": "gfs",
+    "path": "../data/raw\\gfs\\gfs_previous_runs.json"
+  },
+  {
+    "filename": "icon_previous_runs.json",
+    "source": "icon",
+    "path": "../data/raw\\icon\\icon_previous_runs.json"
+  },
+  {
+    "filename": "era5_precipitation.json",
+    "source": "reference",
+    "path": "../data/raw\\reference\\era5_precipitation.json"
+  }
+]

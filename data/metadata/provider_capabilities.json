@@ -1,0 +1,9 @@
+{
+  "historical_forecast_status": "error: ConnectTimeout('')",
+  "historical_forecast_models": [],
+  "historical_forecast_variables": [],
+  "reference_status": "error: ConnectTimeout('')",
+  "reference_dataset": "",
+  "reference_variables": [],
+  "network_status": "Isolated/No External Internet Access"
+}

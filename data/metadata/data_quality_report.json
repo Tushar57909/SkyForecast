@@ -1,0 +1,18 @@
+{
+  "files_inspected": 4,
+  "files_accepted": 4,
+  "files_rejected": 0,
+  "record_count": 2688,
+  "complete_sample_count": 2688,
+  "incomplete_sample_count": 0,
+  "missing_models": {
+    "ecmwf": 0,
+    "gfs": 0,
+    "icon": 0,
+    "reference": 0
+  },
+  "duplicate_count": 0,
+  "invalid_timestamp_count": 0,
+  "invalid_coordinate_count": 0,
+  "invalid_unit_count": 0
+}
